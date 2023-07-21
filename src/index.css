@@ -286,13 +286,13 @@ a{
   color: var(--clr-medium-gray);
   background: none;
   padding: 15px 20px;
-  border: solid 3px var(--clr-medium-gray);
+  border: solid 2px var(--clr-medium-gray);
   border-radius: 15px;
 }
 
 .register-btn:hover{
   color: var(--clr-almoust-black);
-  border: solid 3px var(--clr-almoust-black);
+  border: solid 2px var(--clr-almoust-black);
   cursor: pointer;
 }
 

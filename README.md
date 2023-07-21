@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/intro-with-dropdown-made-w-react-vite-css-variables-flexbox-CsLeXKBpIM)
 - Live Site URL: [Live Site](https://moonlit-chimera-631470.netlify.app/)
 - GitHub Solution: [Solution Repositorie](https://github.com/DantDev/Intro-dropdown)
 
